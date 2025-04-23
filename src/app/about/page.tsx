@@ -25,7 +25,7 @@ const About = () => {
 
       <section>
         <h2 className="text-2xl font-semibold">Client Testimonials</h2>
-        <blockquote className="mt-2 border-l-4 pl-4 italic">"[Testimonial]" - [Client Name]</blockquote>
+        <blockquote className="mt-2 border-l-4 pl-4 italic">&quot;[Testimonial]&quot; - [Client Name]</blockquote>
       </section>
 
       <section>
